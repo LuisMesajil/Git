@@ -7,3 +7,14 @@ Otros intereses:
 - Desarrollo de aplicaciones
 - Procesos empresariales
 
+Para crecer como persona y profesional se ha propuesto los siguientes objetivos:
+
+- Desarrollo de una aplicación Frotend, backend
+- Aplicación gráfica
+
+Otros cursos a tener en cuenta:
+
+- Modelos
+- IOP
+- Redes
+- Bases de datos
