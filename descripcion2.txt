@@ -4,6 +4,4 @@ Este archivo se creo en un directorio local.
 Modificación del archivo de manera local (repo clonado con depth=1)
 
 
-Modificación: Probando git commit
-
-Modificación: Probando git c
+Modificación: Probando git ci
