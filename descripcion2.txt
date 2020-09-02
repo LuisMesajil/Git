@@ -1,4 +1,4 @@
 Este archivo se creo en un directorio local.
 
 
-Modificación: Probando git fetch
+Modificación: Probando git pull
