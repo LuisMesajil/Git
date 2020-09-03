@@ -1,4 +1,4 @@
 Este archivo se creo en un directorio local.
 
 
-Modificación: Probando git pull origin master
+Modificación: Modificación desde la interfaz de Github
