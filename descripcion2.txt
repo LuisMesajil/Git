@@ -1,4 +1,4 @@
-Este archivo se creo en un directorio local.
+Este archivo se creo desde el repositorio local.
 
 
 Modificación: Modificación desde la interfaz de Github
