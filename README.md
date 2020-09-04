@@ -1,2 +1,2 @@
 # ProyectoGit
-Aprendiendo Git y github.
+Aprendiendo Git y github
