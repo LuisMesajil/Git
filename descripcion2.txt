@@ -2,3 +2,6 @@ Este archivo se creo en un directorio local.
 
 
 Modificación: Modificación desde la interfaz de Github
+
+
+Modificación: Modificación desde repositorio local
