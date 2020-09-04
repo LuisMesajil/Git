@@ -1,2 +1,2 @@
 # Git
-Aprendiendo Git y Github
+Git y Github
